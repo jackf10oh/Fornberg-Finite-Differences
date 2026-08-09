@@ -8,6 +8,7 @@
 #define FORNFDM_SOLVERS_ALL_H
 
 #include "SolverArgs.hpp"
+#include "TimeArg.hpp"
 #include "SavePolicies.hpp"
 #include "SolverBase.hpp"
 #include "ExplicitSolver.hpp" 
